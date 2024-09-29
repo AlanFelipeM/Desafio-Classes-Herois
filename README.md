@@ -1,4 +1,4 @@
-# Desafio DIo Jogo de Aventura - Heróis em Batalha
+# Desafio DIO Jogo de Aventura - Heróis em Batalha
 
 ## Descrição
 
